@@ -14,7 +14,4 @@
 консоль bash
 javac Main.java
 java Main
-Чтобы видеть русский текст при запуске программы, добавьте флаг кодировки UTF-8:
-javac Main.java
-java -Dfile.encoding=UTF-8 Main
 2. Вводите данные согласно запросам в консоли.
